@@ -9,7 +9,7 @@ genius.excluded_terms = ["(Remix)", "(Live)", "(Mixed)", "(FreeStyle)"] # Exclud
 genius.sleep_time=1
 genius.retries=3
 
-artist = genius.search_artist("Quevedo", sort="title")
+artist = genius.search_artist("Mestisay", sort="title")
 print(artist.songs)
 
 
