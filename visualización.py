@@ -82,8 +82,8 @@ working_directory = r"/home/marcos/asignaturas/IAA/p-grupo/IAA-Corpus-Lyrics"
 os.chdir(working_directory)
 
 #  Ruta del archivo a leer
-# ruta_archivo = "./lyrics_tokenized.csv"
-ruta_archivo = "./Lyrics_Quevedo.json"
+# Cambia la ruta si es necesario
+ruta_archivo = "./letras_quevedo.txt"
 
 #  Ejecutar análisis
 texto = cargar_texto(ruta_archivo)
