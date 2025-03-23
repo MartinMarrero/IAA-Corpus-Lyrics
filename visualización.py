@@ -4,7 +4,11 @@ from collections import Counter
 from wordcloud import WordCloud
 from nltk.util import ngrams
 import os
+import matplotlib
 
+# Configuración de matplotlib para evitar problemas con la interfaz gráfica
+# Si estás en un entorno sin GUI, puedes usar Agg para guardar imágenes sin mostrarlas
+matplotlib.use("Agg")
 # Descargar los recursos necesarios de NLTK
 nltk.download('punkt')
 
@@ -28,7 +32,7 @@ def analizar_texto(texto):
     freq_unigramas = Counter(unigramas).most_common(10)
     freq_bigramas = Counter(bigramas).most_common(10)
     freq_trigramas = Counter(trigramas).most_common(10)
-    
+
     #  Gráficos de barras para n=1,2,3
     plt.figure(figsize=(16, 8))
 
@@ -57,6 +61,8 @@ def analizar_texto(texto):
 
     plt.tight_layout()
     plt.show()
+    # ! cambio
+    plt.savefig("frecuencias_ngrams.png")
 
     # 🌥️ Nube de palabras
     plt.figure(figsize=(6, 4))
@@ -66,13 +72,18 @@ def analizar_texto(texto):
     plt.title('Nube de Palabras')
     plt.tight_layout()
     plt.show()
+    # ! cambio
+    plt.savefig("nube_palabras.png")
 
 # Configuración del directorio de trabajo
-working_directory = r"G:\Mi unidad\24-25\docencia\iaa\codigo_genius_lyrics"
+# Por tu directorio actual:
+# working_directory = r"G:\Mi unidad\24-25\docencia\iaa\codigo_genius_lyrics"
+working_directory = r"/home/marcos/asignaturas/IAA/p-grupo/IAA-Corpus-Lyrics"
 os.chdir(working_directory)
 
 #  Ruta del archivo a leer
-ruta_archivo = "./lyrics_tokenized.csv"
+# ruta_archivo = "./lyrics_tokenized.csv"
+ruta_archivo = "./Lyrics_Quevedo.json"
 
 #  Ejecutar análisis
 texto = cargar_texto(ruta_archivo)
