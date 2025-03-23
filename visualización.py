@@ -5,9 +5,9 @@ from wordcloud import WordCloud
 from nltk.util import ngrams
 import os
 import matplotlib
+import argparse
 
 # Configuración de matplotlib para evitar problemas con la interfaz gráfica
-# Si estás en un entorno sin GUI, puedes usar Agg para guardar imágenes sin mostrarlas
 matplotlib.use("Agg")
 # Descargar los recursos necesarios de NLTK
 nltk.download('punkt')
@@ -60,8 +60,6 @@ def analizar_texto(texto):
     plt.gca().invert_yaxis()
 
     plt.tight_layout()
-    plt.show()
-    # ! cambio
     plt.savefig("frecuencias_ngrams.png")
 
     # 🌥️ Nube de palabras
@@ -71,20 +69,18 @@ def analizar_texto(texto):
     plt.axis('off')
     plt.title('Nube de Palabras')
     plt.tight_layout()
-    plt.show()
-    # ! cambio
     plt.savefig("nube_palabras.png")
 
-# Configuración del directorio de trabajo
-# Por tu directorio actual:
-# working_directory = r"G:\Mi unidad\24-25\docencia\iaa\codigo_genius_lyrics"
-working_directory = r"/home/marcos/asignaturas/IAA/p-grupo/IAA-Corpus-Lyrics"
-os.chdir(working_directory)
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Analizar texto y generar visualizaciones.")
+    parser.add_argument("working_directory", type=str, help="Directorio de trabajo")
+    parser.add_argument("file_path", type=str, help="Ruta del archivo a analizar")
 
-#  Ruta del archivo a leer
-# ruta_archivo = "./lyrics_tokenized.csv"
-ruta_archivo = "./Lyrics_Quevedo.json"
+    args = parser.parse_args()
 
-#  Ejecutar análisis
-texto = cargar_texto(ruta_archivo)
-analizar_texto(texto)
+    # Configuración del directorio de trabajo
+    os.chdir(args.working_directory)
+
+    # Cargar y analizar el texto
+    texto = cargar_texto(args.file_path)
+    analizar_texto(texto)
