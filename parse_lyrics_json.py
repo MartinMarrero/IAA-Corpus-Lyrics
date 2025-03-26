@@ -16,4 +16,4 @@ def extraer_lyrics_a_txt(json_path: str, output_path: str):
 
 # Cambia las rutas si lo necesitas
 if __name__ == "__main__":
-    extraer_lyrics_a_txt("Lyrics_Quevedo.json", "letras_quevedo.txt")
+    extraer_lyrics_a_txt("viejos.json", "letras_viejos.txt")
