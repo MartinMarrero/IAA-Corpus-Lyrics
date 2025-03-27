@@ -245,34 +245,44 @@ def split_corpus(corpus, train_ratio=0.8):
         tuple: Una tupla que contiene el corpus de entrenamiento y el corpus de prueba.
     """
 
-    #return train_corpus, test_corpus
+    # return train_corpus, test_corpus
 
 
 def compute_perplexity(test_sentences, cpd, n, vocab):
     """
     Calcula la perplejidad del modelo sobre un conjunto de oraciones de prueba.
-    
+
     Args:
         test_sentences (list of list of str): Lista de oraciones de prueba.
         cpd (dict): Diccionario de distribuciones de probabilidad condicional.
         n (int): El tamaño de los n-gramas.
         vocab (set): Conjunto de palabras en el vocabulario.
-    
+
     Returns:
         float: La perplejidad del modelo.
     """
+    total_log_prob = 0.0
+    total_words = 0
 
-    #return perplexity
+    for sentence in test_sentences:
+        print(f"Evaluando oración: {' '.join(sentence)} con cpd: {cpd}\n")
+        log_prob = sentence_logprobability(sentence, cpd, n, vocab)
+        total_log_prob += log_prob
+        total_words += len(sentence)
+
+    avg_log_prob = total_log_prob / total_words
+    perplexity = math.exp(-avg_log_prob)
+    return perplexity
 
 
 # Ejecución Principal
 if __name__ == "__main__":
     # Establecer el directorio de trabajo
     # os.chdir("G:\\Mi unidad\\24-25\\docencia\\iaa\\practica\\ngram")
-    os.chdir("~/asignaturas/IAA/p-grupo/IAA-Corpus-Lyrics")
+    os.chdir("/home/marcos/asignaturas/IAA/p-grupo/IAA-Corpus-Lyrics")
 
     # Paso 1: Leer y tokenizar el corpus
-    corpus = read_and_tokenize("all_lyrics1.txt")
+    corpus = read_and_tokenize("./lyrics/letras_viejos.txt")
 
     do_KenLM=True
     if(do_KenLM):
