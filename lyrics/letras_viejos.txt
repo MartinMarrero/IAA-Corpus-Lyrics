@@ -10,7 +10,6 @@ Bailan, se dan la mano
 Los extraños son hermanos
 Espalda con espalda
 Compartiendo su pan y su jornal
-
 ¡Agüita agüita! que la rama está sequita
 ¡Agüita agüita! que ya está bailando el sol
 ¡Agüita agüita! que las penas se me quitan
@@ -28,11 +27,11 @@ Y con la resaca a cuestas
 El deseo se adormece
 Aguardando un año más
 A quién amar
-
 ¡Agüita agüita! que la rama está sequita
 ¡Agüita agüita! que ya está bailando el sol
 ¡Agüita agüita! que las penas se me quitan
 ¡Agüita! agüita! y me alegra el corazón
+
 
 Quiéreme así, Dios de quiera
 Mira que esa no es razón
@@ -78,9 +77,7 @@ Desde la cuna comienza
 Ay
 Ay con ay, más ay
 Desde la cuna comienza
-
 ---------------------------------------------
-
 Amor mío, no me olvides
 Que yo no te olvido nunca
 Amor mío no me olvides
@@ -114,6 +111,7 @@ Y ajeno cuando se va
 Ay
 Ay con ay, más ay
 Y ajeno cuando se va
+
 
 Vivo en Atocha 53
 Junto a las vías de un viejo tren
@@ -196,6 +194,7 @@ Ya la alegría sale al balcón
 Eh eh eh
 Buscando el mar donde me crié
 
+
 Barrio de Vegueta
 Barrio donde nací
 Torre de la Audiencia
@@ -227,6 +226,7 @@ Repican, ya sevan
 Repican, ya se van
 Al mar, al mar, al mar
 Barrio de Vegueta
+
 
 Que ya me voy caminando
 Pregonando mi cantar
@@ -261,6 +261,7 @@ Pregona mi cantar
 Resuena los caminos
 Desde la cumbre al mar
 
+
 Ayúdame compañero
 A segar esta cebada
 Que no se diga mañana
@@ -269,6 +270,7 @@ En el campo trabajando
 Voy a fenecer mi vida
 Si no es de día es de noche
 Si no es de noche es de día-
+
 
 Según dice el viejo
 Cho Juan Perenal
@@ -307,6 +309,7 @@ Que no son igual:
 Vivir y morir
 Sеmbrar y enterrar
 
+
 Ven conmigo al naciente
 A cargarme la talla
 Ven conmigo al naciente
@@ -332,6 +335,7 @@ No te alongues ansina pa' alante, que puede que te caigas
 No te alongues ansina pa' alante, que puede que te caigas
 ...¡Y estate quieta! ¡Mira a ver si te rompo el zagalejo!
 ¡Mira a ver si te rompo el zagalejo!
+
 
 Tirinainai tirinai
 En busca de Valentina
@@ -366,6 +370,7 @@ En busca de Valentina
 Tirinaina tirinai
 En busca de Valentina
 Tirinaina tirinai
+
 
 Una veredita alegre
 Con luz de luna o de sol
@@ -418,6 +423,7 @@ Y en tu andar, andar
 Reluce la acera
 Al andar, andar
 
+
 Como un duelo de amor
 Son las folías
 No dejé de cantarlas
@@ -451,6 +457,7 @@ La luz del día
 Porque aprendí a quererte
 Con las folías
 
+
 Isla de Fuerteventura
 Isla donde nací yo
 Tierra de gofio y jareas
@@ -479,7 +486,6 @@ Si al cielo pudiera ir
 Con las alas de mi alma
 Allí pondría tu nombre
 El de mi madre y La Palma
-
 Cultivo una rosa blanca en el jable del vachuelo
 Cultivo una rosa blanca en el jable del vachuelo
 Entre tarajal y aulaga en una gavia que tengo
@@ -517,6 +523,7 @@ Ay fuerteventura, rosa de los vientos
 Eres la fortuna de los majoreros
 Ay fuerteventura, rosa de los vientos
 Eres la fortuna de los majoreros
+
 
 Súbete al monte más alto
 Silba con todas tus fuerzas
@@ -556,6 +563,7 @@ De por qué te condenaron
 A soledades perpetuas
 Ahora silba más hondo
 Silba más alto y sin tregua
+
 
 Para saber que te llevo
 En el costado clavada
@@ -600,6 +608,7 @@ Verás tan sólo en sus rayas
 Los caminos de una isla
 Que se llama Gran Canaria…
 
+
 Dime, niña bonita
 Si esta coplita
 Tiene valor
@@ -618,6 +627,7 @@ Si tu marido te pega
 No te debes de preocupar
 Es señal de que te quiere
 De que te quiere matar
+
 
 "Yo trabajé desde niño
 La miseria fue mi escuela
@@ -643,6 +653,7 @@ No lo llaman Juan García
 Ni lo llaman Corredera
 Juan el nuestro le han nombrado
 Y Juan el nuestro se queda
+
 
 Cultivo una rosa blanca en el jable del vachuelo
 Cultivo una rosa blanca en el jable del vachuelo
@@ -682,6 +693,7 @@ Eres la fortuna de los majoreros
 Ay fuerteventura, rosa de los vientos
 Eres la fortuna de los majoreros
 
+
 Si me regalas un beso te inventaré una canción
 Un mundo lleno de cuentos donde quepamos las dos
 Te llevaré hasta la luna, entre nubes de algodón
@@ -694,6 +706,7 @@ Un pive pide en la calle, afuera apreta el calor
 La tele vocea noticias de guerra y corrupción
 Pero tú sigues jugando floreciendo en tu rincón, dando sentido a mi vida, librándome del terror. ¡Ay!
 Ye ye yé, niña Candela, eres la brasa enciende la hoguera, eres la llama fuego que quema, besa y consume mi corazón. ¡Ay, ay, ay!, niña Candela, eres la l...
+
 
 Un perro de la calle
 Fiel amigo del viento y las esquinas
@@ -717,38 +730,33 @@ Ritmos de la igualdad, fraternizábamos
 Un perro de la calle y un hombre sin fronteras
 Dos cuentagotas de la eternidad
 
+
 Era feliz en su matrimonio
 Aunque su marido era el mismo demonio
 Tenía el hombre un poco de mal genio
 Que ella se quejaba de que nunca fue tierno
-
 Desde hace ya más de tres años
 Recibe cartas de un extraño
 Cartas llenas de poesía
 Que la han devuelto la alegría
-
 ¿Quién le escribía versos, dime quién era?
 ¿Quién le mandaba flores por primavеra?
 ¿Quién cada nueve de noviеmbre
 Como siempre sin tarjeta
 Le mandaba un ramito de violetas?
-
 A veces sueña y se imagina
 Cómo será aquél que tanto la estima
 Sería un hombre más bien de pelo cano
 Sonrisa abierta y ternura en las manos
-
 No sabe quién sufre en silencio
 ¿Quién puede ser su amor secreto?
 Y vivía así de día en día
 Con la ilusión de ser querida
-
 ¿Quién le escribía versos, dime quién era?
 ¿Quién le mandaba flores por primavera?
 ¿Quién cada nueve de noviembre
 Como siempre sin tarjeta
 Le mandaba un ramito de violetas?
-
 Y cada tarde al volver su esposo
 Cansado del trabajo, la mira de reojo
 No dice nada porque lo sabe todo
@@ -757,12 +765,12 @@ Porque él es quién la escribe versos
 Él, su amante, su amor secreto
 Y ella que no sabe nada
 Mira a su marido y luego calla
-
 ¿Quién le escribía versos, dime quién era?
 ¿Quién le mandaba flores por primavera?
 ¿Quién cada nueve de noviembre
 Como siempre sin tarjeta
 Le mandaba un ramito de violetas?
+
 
 Sombra del Nublo
 Riscales los de Tejeda
@@ -792,6 +800,7 @@ Quiero vivir a tu sombra
 Y a tu sombra quiero amar
 El alma eres de mi tierra
 Fuego y lava junto al mar
+
 
 Somos costeros arriando velas
 Largando al viento la rumantela
@@ -833,6 +842,7 @@ Hoy no cantamos ¡Sardinas frescas!
 Hoy pregonamos ¡Viva la fiesta!
 Echa ron ventorrillero
 Turronera, pon turrón
+
 
 Cuando Sulema camina
 El polvo de sus sandalias...
@@ -905,6 +915,7 @@ Sale La Luna en el Sahara...
 Va floreciendo La Libertad
 Sale La Luna en el Sahara
 
+
 Cantemos todos unidos
 Que el cantar es cosa buena
 Ayúdame compañero
@@ -958,6 +969,7 @@ Que el cantar es cosa buena
 Ayúdame compañero
 Porque el canto ya no suena
 
+
 Cuando amanece se despiertan
 Todas las aguas del Atlántico
 Entre sus senos hay un pueblo
@@ -968,7 +980,6 @@ Sacar las cercas del paisaje
 Y verlo libre como antes
 Que el campesino siembre su propio pan
 Y el pescador pueda trabajar sus redes
-
 Un mar azul que brille
 Con siete estrellas verdеs
 El amarillo en tus trigales
@@ -983,11 +994,11 @@ Y en los caminos que forjamos
 Ver crecer a nuestros hijos
 Que el campesino siembre su propio pan
 Y el pescador pueda trabajar sus redes
-
 Un mar azul que brille
 Con siete estrellas verdes
 El amarillo en tus trigales
 Y el blanco en tus rompientes
+
 
 Cuando amanece se despiertan
 Todas las aguas del Atlántico
@@ -999,7 +1010,6 @@ Sacar las cercas del paisaje
 Y verlo libre como antes
 Que el campesino siembre su propio pan
 Y el pescador pueda trabajar sus redes
-
 Un mar azul que brille
 Con siete estrellas verdes
 El amarillo en tus trigales
@@ -1014,11 +1024,11 @@ Y en los caminos que forjamos
 Ver crecer a nuestros hijos
 Que el campesino siembre su propio pan
 Y el pescador pueda trabajar sus redes
-
 Un mar azul que brille
 Con siete estrellas verdes
 El amarillo en tus trigales
 Y el blanco en tus rompientes
+
 
 Cuando amanece se despiertan
 Todas las aguas del Atlántico
@@ -1030,7 +1040,6 @@ Sacar las cercas del paisaje
 Y verlo libre como antes
 Que el campesino siembre su propio pan
 Y el pescador pueda trabajar sus redes
-
 Un mar azul que brille
 Con siete estrellas verdes
 El amarillo en tus trigales
@@ -1045,11 +1054,11 @@ Y en los caminos que forjamos
 Ver crecer a nuestros hijos
 Que el campesino siembre su propio pan
 Y el pescador pueda trabajar sus redes
-
 Un mar azul que brille
 Con siete estrellas verdes
 El amarillo en tus trigales
 Y el blanco en tus rompientes
+
 
 Isla de Fuerteventura
 Isla donde nací yo
@@ -1079,6 +1088,7 @@ Si al cielo pudiera ir
 Con las alas de mi alma
 Allí pondría tu nombre
 El de mi madre y La Palma
+
 
 Juan cogió la red
 Y se puso a pensar
@@ -1113,6 +1123,7 @@ Al Cáin
 Que día a día
 Mata a otro Abel
 
+
 Te levantas del abismo
 Y te abres en el cielo
 Y tus muros se desbordan
@@ -1140,6 +1151,7 @@ A la naturaleza
 Fortaleza azul, canto natural
 Que emerge de la tierra
 
+
 Te levantas del abismo
 Y te abres en el cielo
 Y tus muros se desbordan
@@ -1166,6 +1178,7 @@ Canto del amor
 A la naturaleza
 Fortaleza azul, canto natural
 Que emerge de la tierra
+
 
 A la calle acera a acera
 Que esta tierra ya no aguanta más
@@ -1209,6 +1222,7 @@ No admitimos mas ventas
 De esta tierra que es nuestra
 Y el futuro
 
+
 Cada mañana veo el sol y siento ganas de vivir
 Es tan perfecto su camino que estabiliza mi existencia
 Y como ejemplo de seguir
@@ -1227,6 +1241,7 @@ Con un mensaje para ti
 Espero hasta el agotamiento en cada nuevo amanecer
 Que alguna vez venza el amor y el mal se aleje de ti
 Con un destierro fugaz
+
 
 Cae la lluvia, espejo de cristal
 Bajo esa mirada de coral
@@ -1252,6 +1267,7 @@ Deshoje un espejo de coral
 Cien libros ocultos
 De proyecto universal
 Se aliarán contigo y así triunfarán
+
 
 En mis viajes te descubro
 Y te voy queriendo un poco más
@@ -1310,6 +1326,7 @@ Qué esta tierra no se vende...
 Qué esta tierra es de todos...
 Y te canto...
 
+
 Como la alpispa junto a la acequia eres
 Eres como la alpispa junto a la acequia
 Salpicona y bonita eres eres
@@ -1326,6 +1343,7 @@ Llevando a cada pueblo la paz del mundo eres eres
 Aquí serás alpispa revoloteando
 Sin detener tu vuelo quiero que seas
 Libre, libre, libre, libre
+
 
 Hoy quiero hablarte de mil cosas
 Que se acumulan en mi alma
@@ -1384,6 +1402,7 @@ Ser mensajeros
 Llevando al mundo
 La ansiada espera de la paz
 
+
 Atlántico
 Inmenso azul
 Poeta de la noche
@@ -1402,6 +1421,7 @@ Y todo el sur se hará camino
 Y los pueblos de la Tierra se unirán para cantar
 Por África
 
+
 Ai tiririnaina laranarainá
 El la fuente está tu canto
 Donde es limpia la palabra
@@ -1411,6 +1431,7 @@ Cómo brotan nuevas ramas
 En tus campos Sabinosa
 Es el árbol de tu canto
 Que hace patria entre los hombres
+
 
 Cuánto te hecho de menos, pequeño amor
 Yo aquí solo y tu lejos
@@ -1433,6 +1454,7 @@ Prepararme hasta que la calle te abra sus puertas
 Y aunque me duela
 Te veré caminando sonriendo y feliz
 Y me quedo con tus besos
+
 
 Busco mi espacio para vivir
 La libertad que el tiempo me da
@@ -1501,6 +1523,7 @@ La libertad de este rincón
 De este espacio soñado
 Para los dos
 
+
 Que se abran todas las puertas porque traigo la vida, el paisaje;
 Golondrinas que llevan y dan amor en todas partes
 La palabra necesaria para definir la existencia
@@ -1509,7 +1532,6 @@ El que lleva nuestros más hermosos sueños a la luz de la palabra
 La voz que está por encima de todas las guerras
 Que se abran todas las puertas porque traigo el amor más grande:
 El poeta
-
 Traigo en mi garganta
 El grito dе siglos
 Del hermano ausentе
@@ -1530,7 +1552,6 @@ Que está por encima
 De todas las guerras
 Y si hablo de la paz
 Hablo del poeta
-
 América, tan lejana y tan cerca
 Hermana en la misma lengua
 Al igual que otras tierras fecundaste la mejor de las semillas
@@ -1538,7 +1559,6 @@ El mejor de los frutos
 El sensible polen amante incansable de tu tierra
 ¿Qué más puedo yo decir
 Que no hayan dicho tus poetas?
-
 Traigo en mi garganta
 El grito de siglos
 Del hermano ausente
@@ -1559,6 +1579,7 @@ Y el amor formó un fusil
 En los sueños de Martí
 Hoy su Cuba es un rosal
 Y en el tallo está Guillén
+
 
 Nace el nuevo sol
 Y la tierra sigue
@@ -1582,6 +1603,7 @@ De sentir nuestra tierra nación
 Y tu canto de amor brotará en el mar
 Hermanando a los pueblos del mundo
 
+
 Conservo tu apacible amanecer
 Que envuelve sabiamente lo que tocas
 La vida me habla de ti
@@ -1597,6 +1619,7 @@ El arte pasó siempre por tus manos
 Y la vida se rindió ante tu brío
 Las Gerias me hablan de ti
 Y mi sueño me lleva hasta allí
+
 
 ¿Qué está pasando con esta tierra
 Y qué virus colectivo
@@ -1633,6 +1656,7 @@ Lo dicen ellos, que esta gallina
 Está poniendo los huevos de oro
 Y mientras los pone, todo lo arruina
 
+
 Al compañero que dio
 Su vida abriendo el camino
 Sembrando en él la semilla
@@ -1647,6 +1671,7 @@ Hombre a hombre
 Pueblo a pueblo
 Reconstruiremos la historia
 Y la identidad perdida
+
 
 Espera que te llegará el juicio cuando hables
 Con los ojos delante de tu pueblo
@@ -1672,6 +1697,7 @@ Ai tiririrí ai tiririnai
 Ai tiririrí ai tiririnai
 Ai tiririrí ai tiririnai
 
+
 Como una enorme grieta
 Como un torrente de lava
 Como un volcán activo
@@ -1688,12 +1714,14 @@ Universal pensamiento
 Tu nombre quedará escrito
 En esta tierra de fuego
 
+
 Dile al mundo el llanto
 De esta tierra
 Grito seco que quiere vomitar
 El magma de su entraña
 Y entre grietas
 Los hombres se levantan
+
 
 Ay Canarias mía
 Yo quiero cantarte
@@ -1726,6 +1754,7 @@ Así te cantamos
 Los que en ti nacimos
 Y pronto te amamos
 
+
 Hay fuego en el alma
 Si el bosque se quema
 Que lloren las nubes
@@ -1756,6 +1785,7 @@ Es cuidar la herencia
 Para nuestros hijos
 Para nuestros hijos
 Para nuestros hijos
+
 
 Abrí la ventana
 Y entró una paloma blanca
@@ -1804,6 +1834,7 @@ Habiendo más primaveras
 Ya esta pariendo la tierra
 La nueva generación
 
+
 Arrorró islas heridas
 En las crestas del Atlántico
 Cuánto durará tu sueño
@@ -1844,6 +1875,7 @@ Islas desafortunadas
 Que se amotinen tus voces
 Islas desafortunadas
 
+
 Eres rito de nobleza
 Eres juego de valor
 Donde no siempre la fortaleza
@@ -1866,6 +1898,7 @@ La tradición tiеne en la brega
 Todo el poder de convocar
 El desafío de las islas
 Sembrando en ella su unidad
+
 
 Había una vez
 Una nube gandula
@@ -1901,6 +1934,7 @@ Al fayal, al barbuzano…
 Y la nube dejó el sueño
 Y contenta fue a regarlos
 
+
 Cómo me gusta mirarte
 Y descubrir que me miras
 Cuando pasa el tiempo y no te veo
@@ -1931,6 +1965,7 @@ Ay ay ay ay
 Mi musa, mi estrella
 Ay ay ay ay
 La Palma, la bella
+
 
 Mi tierra siempre parió nobleza
 Donde moraba Achamán
@@ -1966,6 +2001,7 @@ Y seamos surcos en la misma huerta
 Entonces Canarias será el paraíso
 Que tú y yo soñamos para nuestros hijos
 
+
 Mi tierra siempre parió nobleza
 Donde moraba Achamán
 Donde la raza fue fuerza
@@ -2000,6 +2036,7 @@ Y seamos surcos en la misma huerta
 Entonces Canarias será el paraíso
 Que tú y yo soñamos para nuestros hijos
 
+
 Para ver la libertad
 Voy a ganar el presente
 Haré con pasos la simiente
@@ -2017,6 +2054,7 @@ Que nuestra meta esté cerca
 Y que la ruta la lleven sus manos
 Cuando el velero es nuestra casa
 
+
 Con la luna perdida
 En la sombra perfecta;
 Es como un sueño que se genera
@@ -2029,10 +2067,10 @@ Cuando en el tiempo se integra mi alma
 Y entre los campos vibra mi vida
 Y el aire puede ser el perfume
 Que cause en ti toda еstá pasión
-
 Quiero sentirte dеntro de mí
 Tu cuerpo entero surge del sol
 Y cuando llueve sólo hay aurora
+
 
 Cada estación se desborda
 Bajo tu cielo me enamoro
@@ -2061,6 +2099,7 @@ Como una paloma blanca
 Y sin que nadie detenga
 Tu vuelo libre en el cielo
 
+
 Agua fresca del naciente
 Te deslizas y te pierdes
 En mi esfuerzo de tenerte
@@ -2085,6 +2124,7 @@ Un desierto de tristeza
 De pena y de soledad
 Agua fresca del naciente
 Te deslizas y te pierdes…
+
 
 Vivimos en estas islas
 Agazapados al agua
@@ -2128,6 +2168,7 @@ El ser libres
 Para ser nosotros mismos
 Y unirnos a los pueblos de la Tierra
 
+
 Duerme Femés
 Y en el silencio
 Sólo los ladridos de los perros
@@ -2152,6 +2193,7 @@ Hasta quе la rabia se desata
 Nada se podía
 Comparar a еsa mujer
 Mararía
+
 
 Elegí mi país
 Para ti
@@ -2179,6 +2221,7 @@ Al univеrso
 Elegí mi país
 Para ti
 Y subí
+
 
 Quién llama a la puerta del reino
 De las arenas
@@ -2218,6 +2261,7 @@ Un grito en los alambres
 Traigo el mapa de los sueños que perdí
 Traigo escrita en una mano
 La ternura de los besos que de di
+
 
 Desde la más antigua raza isleña
 Aún siguen viniendo estrellas que anuncian en la imaginación de los hombres
@@ -2276,6 +2320,7 @@ De Gran Canaria, Doramas
 Y de La Palma, Tanausú
 Todos guiados por una luz
 
+
 Siete estrellas del cielo cayeron
 Y a besar al Atlántico fueron
 Y otra bajó
@@ -2307,6 +2352,7 @@ De Gran Canaria, Doramas
 Y de La Palma, Tanausú
 Todos guiados por una luz
 
+
 Alza tu mano y palmea
 Dala a la noche toda tu fuerza vital
 Y abre tu corazón
@@ -2328,6 +2374,7 @@ Quе la música te eleve
 Viaja conmigo y verás
 Que la noche pierde alas
 Y a todos nos llevará
+
 
 Ni-nana-na-na-na-na
 Ni-nana-na-na-na-na
@@ -2374,6 +2421,7 @@ Ni-nana-na-na-na-na
 Ni-nana-na-na-na-na
 Niiiiii
 
+
 Salí a buscar el amor
 Lo hallé en la orilla del agua
 Lo hallé al dejar clavada tu huella en la arena
@@ -2396,6 +2444,7 @@ No hicieron falta palabras para llegar al amor
 Fue tan grande que se hizo eterno en la noche
 Tus ojos eran de nubes
 Y como lunas de abril
+
 
 Como salí por los senderos
 Pa' que conozcas La Palma
@@ -2424,6 +2473,7 @@ Su canto alegre retumba
 Y como un reto se deslizan
 Por el techo hermoso de las nubes
 
+
 Testigos fueron de tu historia
 Los dragos viejos
 Hoy siguen vivos en los pasos
@@ -2446,6 +2496,7 @@ Como la flor al sol?
 Cuando la voz
 Se te haga silencio antе el temor
 De morir?
+
 
 Por el camino del indio
 Y el ánima de Don Ata
@@ -2503,6 +2554,7 @@ Allá en Pergamino
 Tal vez Santa Rosa
 Lo llora toda La Pampa
 En una bordona
+
 
 Por la blanda arena
 Que lame el mar
@@ -2568,6 +2620,7 @@ Y te vas hacia allá
 Como en sueños
 Dormida, Alfonsina
 Vestida de mar
+
 
 Por la blanda arena
 Que lame el mar
@@ -2634,6 +2687,7 @@ Como en sueños
 Dormida, Alfonsina
 Vestida de mar
 
+
 El mar, que fue una palabra
 Vacía y sin horizonte
 Hoy es un niño que canta
@@ -2671,6 +2725,7 @@ A por el mar, promesa y semilla
 De libertad
 A por el mar, a por el mar...
 
+
 Yo no quiero la Patria dividida
 Ni por siete cuchillos desangrada
 Quiero la luz de Chile enarbolada
@@ -2687,6 +2742,7 @@ Yo no quiero la Patria dividida
 Cabemos todos en la tierra mía
 Yo me quedo a cantar con los obreros
 En esta nueva historia y geografía
+
 
 Ayer encontré la flor que tu me diste
 Imagen del amor que me ofreciste
@@ -2739,6 +2795,7 @@ Alegrense por fín que lo demás no importa
 Levanntense y gocen que la vida es corta
 Alegrense por fín que lo demás no importa
 
+
 La gueldera en Acentejo
 El engodo en Candelaria
 Primero llegó la cruz
@@ -2756,7 +2813,6 @@ De una isla y de una raza
 Y una infinita querencia:
 Nacer, vivir y morir
 Sin cadenas castellanas
-
 Se la llevaron los invasores
 Cuando vеnía de la montaña
 Con su carguita de til y brezo
@@ -2775,7 +2831,6 @@ Se la llevaron los invasores
 Cuando venía de la montaña
 Y el caminito se fue cerrando
 En mala hierba y de telarañas
-
 Un gran silencio creció en la cumbre
 Un aire helado bajó a la playa
 Así de mudo se quedó el monte
@@ -2787,16 +2842,15 @@ En algún lugar de España
 Cathaysa la niña guanche
 No verá más Taganana
 
+
 Aparte de ti tu boca
 Tus labios color de rosa
 Aparte de ti tu boca
 Amo tu forma de bailar
-
 Aparte de ti tu boca
 Tus ojos me dicen cosas
 Las cosas que me provocas
 Le dan a mi cuerpo un compas
-
 Cuando tu das un paso para allá
 Me muevo como tu sombra
 Pero si pones tu mano aca
@@ -2806,17 +2860,14 @@ Me muevo como tu sombra
 Pero si pones tu mano aca
 Es cuando muero de placer
 Y todo en mi comienza a arder
-
 Aparte de ti tu boca
 Me quemo cuando me tocas
 Me gusta cuando caminas
 Y quiero ir adonde vas
-
 Aparte de ti tu boca
 El mundo es muy poca cosa
 Las cosas que me provocas
 Le dan a mi cuerpo un compas
-
 Cha-cha muchacha
 Que vuelva esta
 Cha-cha muchacha
@@ -2832,7 +2883,6 @@ Para gozar
 Cha-cha muchacha
 Que vuelva esta
 Cha-cha muchacha
-
 Cuando tu das un paso para allá
 Me muevo como tu sombra
 Pero si pones tu mano aca
@@ -2842,7 +2892,6 @@ Me muevo como tu sombra
 Pero si pones tu mano aca
 Es cuando muero de placer
 Y todo en mi comienza a arder
-
 Aparte de ti tu boca
 El mundo es muy poca cosa
 Las cosas que me provocas
@@ -2850,6 +2899,7 @@ Le dan a mi cuerpo un compas
 Las cosas que me provocas
 Le dan a mi cuerpo un compas
 (cha-cha-cha)
+
 
 No existe un momento del día
 En que pueda apartarte de mí
@@ -2859,23 +2909,20 @@ No hay bella melodía
 En que no surjas tú
 Ni yo quiero escucharla
 Cuando me faltas tú
-
 Es que te has convertido en parte de mi alma
 Ya nada me conforma si no estás tú también
-
 Más allá de tus labios
 Del sol y las estrellas
 Contigo en la distancia
 Amada mía, estoy
 
-
 Es que te has convertido en parte de mi alma
 Ya nada me conforma si no estás tú también
-
 Más allá de tus labios
 Del sol y las estrеllas
 Contigo en la distancia
 Amada mía, estoy
+
 
 Y dicen, y dicen
 Y dicen que sabes coser
@@ -2920,6 +2967,7 @@ Y de vino tinto, un garrafón
 Un lebrillo gofio me comí
 Fue tanta la sed, de que me dio
 
+
 Ibamos cuatro guitarras, bandurrias y requinto, timplillo y laúd
 Todos cantábamos Isas, coplas y estribillos rumbo a Santa Cruz
 Se armó fuerte pelotera  cuando desde Agulo saltamos a Tías
@@ -2948,6 +2996,7 @@ Qué tenderete, qué tenderete
 Qué tenderete, ¡Ay, Mería! se armó
 Nunca se vió una parranda mejor que la nuestra
 De Teno a Teror
+
 
 Carmelo Larrea (España)
 Sevilla tuvo que ser
@@ -2982,6 +3031,7 @@ Están clavadas dos cruces
 En el monte del olvido
 Por dos amores que han muerto
 Que son el tuyo y el mío
+
 
 En el barrio La Cachimba se ha formado la corredera
 En el barrio La Cachimba se ha formado la corredera
@@ -3034,6 +3084,7 @@ Se cogió candela
 Se quedó dormida y no
 Apagó la vela
 
+
 El mar, que un día fue
 Espejo de mi amor
 Al irte tú, cambió su luz
@@ -3059,6 +3110,7 @@ Tеstigo de mi amor
 Y entre sus aguas mе traerá
 Tu imagen que tanto he amado
 Que tanto he amado
+
 
 Iba cantando y te vi morena
 Por un momento clavé mis ojos en ti
@@ -3097,6 +3149,7 @@ Uh, uh, uh... uhhhh uhhhhh
 ¡Oooh, oooh
 Eh, morenitaa, oooh!...
 
+
 Mi unicornio azul ayer se me perdió
 Pastando lo dejé y desapareció
 Cualquier información bien la voy a pagar
@@ -3120,6 +3173,7 @@ Cualquier información la pagaré
 Mi unicornio azul se me ha perdido ayer
 Se fue...
 
+
 Al canario, al canario le partieron, el pico
 El pico con una azada, parece convenía que el canario no cantara
 Parece que convenía, que el canario no cantara
@@ -3134,6 +3188,7 @@ La alegría del canario, es darle vida a un cantar, darle vida; es darle vida a 
 Y al compás de una folía, dejarlo libre volar
 La alegría del canario, es darle vida a un cantar, del monte hasta el pico, del mar a la sierra miles de canarios defienden su tierra
 
+
 Llorad, las damas, sí Dios os vala
 Guillén Peraza quedó en La Palma
 La flor marchita de la su cara
@@ -3146,6 +3201,7 @@ Cubran tus flores los arenales
 Guillén Peraza, Guillén Peraza
 ¿dó está tu escudo?, ¿dó está tu lanza?
 Todo lo acaba la malandanza
+
 
 Canario, lucha
 Como lucharon los Guanches
@@ -3201,6 +3257,7 @@ El grande perdió, el chico ganó
 Como ganaron Méndez y Angelito, Palmero y Camurria
 Frente a rivales de peso mayor
 
+
 Ay, Canarias
 La tierra de mis amores
 Ramo de flores
@@ -3228,6 +3285,7 @@ Con el pico Teide de guardián
 Son siete hermosos corazones
 Que palpitan al mismo compás!
 ¡Mis siete islas Canarias!
+
 
 Eres … eres …
 Eres como la Alpispa
@@ -3267,6 +3325,7 @@ Junto a la acequia
 Salpicona y bonita
 Pero coqueta
 
+
 Déjame que te cuente limeña
 Déjame que te díga la gloria
 Del ensueño que evoca la memoría
@@ -3300,6 +3359,7 @@ Del puente a la alameda,menudo pié la lleva
 Por la vereda que se estremece a rítmo de su cadera
 Recogí­a la rísa de la brísa del rí­o
 Y al viento la lanzaba del puente a la alameda
+
 
 Para hacer esta muralla
 Tráiganme todas las manos
@@ -3357,6 +3417,7 @@ Abre la muralla;
 Al ruiseñor en la flor…
 ABRE LA MURALLA!
 
+
 Dicen que murió la raza
 Y nunca fue raza muerta
 Raza que acabó en la Historia
@@ -3410,6 +3471,7 @@ El Valle de Taganana
 De las selvas que coronan
 De las selvas que coronan el Valle de Taganana
 
+
 Allá viene Valentina lanzando su voz al viento
 Cada verso una semilla en el corazón herreño
 Allá viene Valentina lanzando su voz al viento
@@ -3427,6 +3489,7 @@ Se guardan como un tesoro las voces de mis mayores
 Allá viene Valentina lanzando su voz al viento cada verso una
 Allá viene Valentina lanzando su voz al viento cada verso una
 Semilla en el corazón herreño
+
 
 Llamarme guanche
 Hijo de los volcanes y las lavas
@@ -3467,6 +3530,7 @@ De hombre libre
 Cuando nace Magec cada mañana
 Cuando nace Magec cada mañana
 
+
 Duerme Femés
 Y en el silencio
 Sólo los ladridos de los perros
@@ -3491,6 +3555,7 @@ Hasta quе la rabia se desata
 Nada se podía
 Comparar a еsa mujer
 Mararía
+
 
 Ay, tírate al mar
 (Sí, Señor)
@@ -3549,6 +3614,7 @@ Maspalomas y tú
 La gloria de mi tierra
 En Maspalomas...
 
+
 Quizá porque mi niñez
 Sigue jugando en tu playa
 Y escondido tras las cañas
@@ -3557,7 +3623,6 @@ Llevo tu luz y tu olor
 Por dondequiera que vaya
 Y amontonado en tu arena
 Guardo amor, juegos y penas
-
 Yo, que en la piel tengo el sabor
 Amargo del llanto eterno
 Que han vertido en ti cien pueblos
@@ -3566,18 +3631,15 @@ Para que pintes de azul
 Sus largas noches de invierno
 A fuerza de desventuras
 Tu alma es profunda y oscura
-
 A tus atardeceres rojos
 Se acostumbraron mis ojos
 Como el recodo al camino
 Soy cantor, soy embustero
 Me gusta el juego y el vino
 Tengo alma de marinero...
-
 ¿Qué le voy a hacer, si yo
 Nací en el mediterráneo?
 Nací en el mediterráneo
-
 Y te acercas, y te vas
 Después de besar mi aldea
 Jugando con la marea
@@ -3586,7 +3648,6 @@ Eres como una mujer
 Perfumadita de brea
 Que se añora y que se quiere
 Que se conoce y se teme
-
 Ay... si un día para mi mal
 Viene a buscarme la parca
 Empujad al mar mi barca
@@ -3595,14 +3656,12 @@ Y dejad que el temporal
 Desguace sus alas blancas
 Y a mí enterradme sin duelo
 Entre la playa y el cielo...
-
 En la ladera de un monte
 Más alto que el horizonte
 Quiero tener buena vista
 Mi cuerpo será camino
 Le daré verde a los pinos
 Y amarillo a la genista
-
 Cerca del mar, porque yo
 Nací en el mediterráneo
 Nací en el mediterráneo
@@ -3610,6 +3669,7 @@ Nací en el mediterráneo
 Lararai rara lararai rara
 Lararai rara lararai rara
 Ay la...
+
 
 Me matan si no trabajo
 Y si trabajo me matan
@@ -3628,6 +3688,7 @@ A los hombres trabajando
 Ay, quién le dirá cuando crezcan
 Que los hombres no son niños
 Que no lo son
+
 
 ¿Quién eres tú?
 Si te gusto adivina quien soy
@@ -3662,6 +3723,7 @@ Seas quien puedes ser
 Lo que Dios quiera es
 Seas quien puedas ser
 Lo que Dios quiera es
+
 
 Paroles de la chanson Palmero Sube A La Palma :
 Palmero, sube a La Palma
@@ -3701,6 +3763,7 @@ Pa’que me entiendas
 Porque también los ojos
 Sirven de lengua
 
+
 Ay, Canarias
 La tierra de mis amores
 Ramo de flores
@@ -3728,6 +3791,7 @@ Con el pico Teide de guardián
 Son siete hermosos corazones
 Que palpitan al compás!
 ¡Mis siete islas Canarias!
+
 
 ¿Quién es ese elegantísimo
 Orondo y gran caballero?
@@ -3761,6 +3825,7 @@ Yo soy un pobre del campo, agricultor platanero
 Yo soy un pobre del campo, agricultor platanero
 Yo soy un pobre del campo, agricultor platanero
 
+
 Esta fabulilla
 Salga bien o mal
 Me ha ocurrido ahora
@@ -3790,39 +3855,35 @@ Borriquitos hay
 Que una vez aciertan
 Por casualidad
 
+
 Siempre que te pregunto
 Que cómo, cuándo y dónde
 Tú siempre me respondes
 "Quizás, quizás, quizás"
-
 Y así pasan los días
 Y yo, desesperando
 Y tú, tú contestando
 "Quizás, quizás, quizás"
-
 Estás perdiendo el tiempo
 Pensando, pensando
 Por lo que más tú quieras
 ¿Hasta cuándo?, ¿eh?, ¿hasta cuándo?
-
 Y así pasan los días
 Y yo, desesperando
 Y tú, tú contestando
 "Quizás, quizás, quizás"
 
-
 Estás perdiendo el tiempo, eh-eh
 Pensando, ¿pero qué pensando?
 Por lo que más tú quieras, dime
 ¿Hasta cuándo?, ¿eh?, ¿hasta cuándo?
-
 Y así pasan los días
 Y yo, dеsesperando
 Y tú, tú, tú contestando
 "Quizás, quizás, quizás"
+"Quizás, quizás, quizás"
+"Quizás, quizás, quizás"
 
-"Quizás, quizás, quizás"
-"Quizás, quizás, quizás"
 
 Secundemos tu ejemplo ya
 Que tu voz es la inspiración
@@ -3864,6 +3925,7 @@ Como el guanche de Aceró
 ¡Vacaguaré!
 ¡Vacaguaré!
 
+
 Se equivocó la paloma
 Se equivocaba
 Por ir al norte, fue al sur
@@ -3883,6 +3945,7 @@ Se equivocaba
 Se equivocaba
 Ella se durmió en la orilla
 Tú еn la cumbre de una rama
+
 
 Sombra del Nublo
 Riscales los de Tejeda
@@ -3913,18 +3976,17 @@ Y a tu sombra quiero amar
 El alma eres de mi tierra
 Fuego y lava junto al mar
 
+
 Se olvidaron los chapines
 De que para el agua fresca
 No existe vaso mejor
 Que una hoja de ñamera
-
 Ay ¡Cómo suena de sed
 El tambor de la Gomera!
 Sólo son riscos pelados
 La de ayer Fuente Bermeja
 Los ojos de Santa Clara
 Manan solamente piedras
-
 Ay ¡Cómo suena de sed
 El tambor de la Gomera!
 Los montes de mi niñez
@@ -3935,9 +3997,9 @@ Los silbos se desvanecen
 Y los guinchos son ausencias
 Adios guirres, aguelillas
 Barbuzanos y tederas
-
 Ay ¡Cómo suena de sed
 El tambor de la Gomera!
+
 
 Que triste, se oye la lluvia
 En los techos de cartón
@@ -3979,6 +4041,7 @@ En las casas de cartón
 Que lejos pasa la esperanza
 En los techos de cartón
 
+
 La casa donde vivo aquí es el asombro azul
 El mar es la prisión del sol, espejo de la luz
 Te digo que circundo paz, y yo te pienso aquí
@@ -3998,7 +4061,6 @@ La retama y yo, el pinar y vos
 El valle de la luna me abrumó con su color
 Te cuento como vivo dolido sin vos
 Te cuento como vivo dolido sin vos
-
 Ahora, digo hoy que ha pasado el tiempo
 Desde esos continentes que España me descubrió en el alma
 Islas de la Esperanza, no sé qué fuerzas saco
@@ -4011,6 +4073,7 @@ La retama y yo, el pinar y vos
 El valle de la luna me abrumó con su color
 Te cuento como vivo dolido sin vos
 Te cuento como vivo dolido sin vos
+
 
 Yo nací del otro lado
 De este mar nuestro cansado
@@ -4052,6 +4115,7 @@ Tenerife que añoranza
 Cuando pienso en los amores
 Que oculté yo en tu esperanza
 
+
 Con tanto inglé que tú sabía
 Bito Manué
 Con tanto inglé, no sabe ahora
@@ -4068,6 +4132,7 @@ Bito Manué
 Si no sabe inglé
 Si no sabe inglé
 
+
 Te vi, juntabas margaritas del mantel
 Ya sé que te traté bastante mal
 No sé si eras un ángel o un rubí
@@ -4076,7 +4141,6 @@ Te vi, saliste entre la gente a saludar
 Los astros se rieron otra vez
 La llave de Mandala se quebró
 O simplemente te vi
-
 Todo lo que diga está de más
 Las luces siempre encienden en el alma
 Y cuando me pierdo еn la ciudad
@@ -4085,7 +4149,6 @@ Es sólo un rato nomás
 Tendría quе llorar o salir a matar
 Te vi, te vi, te vi
 Y yo no buscaba a nadie y te vi
-
 Te vi, fumabas unos chinos en Madrid
 Hay cosas que te ayudan a vivir
 No hacías otra cosa que escribir
@@ -4094,7 +4157,6 @@ Me fui, me voy de vez en cuando a algun lugar
 Ya sé, no te hace gracia este país
 Tenías un vestido y un amor
 Y yo simplemente te vi
-
 Todo lo que diga está de más
 Las luces siempre encienden en el alma
 Y cuando me pierdo en la ciudad
@@ -4105,6 +4167,7 @@ Te vi, te vi, te vi
 Y yo no buscaba a nadie y te vi
 Te vi, te vi, te vi
 Y yo no buscaba a nadie y te vi
+
 
 Yo quiero que a mí me entierren
 Como a mis antepasados
@@ -4123,38 +4186,34 @@ Arcilla, vaso de barro
 Con mi muerte yazgo en tí
 En tu polvo enamorado
 
+
 ¿Quién dijo que todo está perdido?
 Yo vengo a ofrecer mi corazón
 Tanta sangre que se llevó el río
 Yo vengo a ofrecer mi corazón
-
 No será tan fácil, ya sé que pasa
 No será tan simple como pensaba
 Como abrir el pecho y sacar el alma
 Una cuchillada del amor
-
 Luna de los pobres siempre abierta
 Yo vengo a ofrecer mi corazón
 Como un documento inalterable
 Yo vengo a ofrecer mi corazón
-
 Y uniré las puntas de un mismo lazo
 Y me iré tranquilo me iré despacio
 Y te daré todo y me darás algo
 Algo que me alivie un poco más
-
 Cuando no haya nadie cerca o lejos
 Yo vengo a ofrecer mi corazón
 Cuando los satélites no alcancen
 Yo vengo a ofrecer mi corazón
-
 Y hablo de países y de esperanzas
 Hablo por la vida, hablo por la nada
 Hablo de cambiar esta nuestra casa
 De cambiarla por cambiar nomás
-
 ¿Quién dijo que todo está perdido?
 Yo vengo a ofrecer mi corazón
+
 
 De los cerros tucumanos me llevaron los caminos
 Y me trajeron de vuelta sentires que nunca se harán olvido
@@ -4175,6 +4234,7 @@ Como ese grillo del campo que solitario cantaba...
 Así perdida en la noche también era un grillo, vidala y zamba...
 Así perdida en la noche se va mi zamba, palomitay
 
+
 Arrorró rorró mi niño
 Arrorró rorró rorró arorró rorró rorró
 Y duérmete mi niño chico
@@ -4183,6 +4243,7 @@ Duérmete y no llores más
 Que vienen los angelitos
 Que vienen los angelitos del cielo y te llevarán
 Arrorró rorró rorró
+
 
 Siento
 Un aislamiento irreal
@@ -4203,11 +4264,11 @@ Que todo un mundo nuevo
 Crece con la semilla
 Que ya plantaron
 Mis recuerdos en el aire
+Guadalupe madre mía
+La Gomera en ti confía
+Guadalupe madre mía
+La Gomera en ti confía
 
-Guadalupe madre mía
-La Gomera en ti confía
-Guadalupe madre mía
-La Gomera en ti confía
 
 Campesina, campesina
 Con tu falda volandera
@@ -4221,6 +4282,7 @@ Saranda que arrulla el viento
 Como una luna morena
 Lanzando estrellas de trigo
 En la noche conejera
+
 
 Soy basalto, drago, aulaga
 Tarajal y almendro en flor
@@ -4256,6 +4318,7 @@ Soy de aquí, soy de una tierra
 Donde el mar cautiva el Sol...
 Con el mundo por frontera
 Ser canario es mi razón
+
 
 Fuerteventura dunas y arena, aulaga y soledad
 Sobre Tindaya trae el viento arcanos desde el mar
@@ -4295,6 +4358,7 @@ Siente el latir de un solo pulso, llegó Navidad
 Vamos, cantemos, somos ocho sobre el mismo mar
 Siente el latir de un solo pulso, llegó Navidad
 
+
 Dos gardenias para ti
 Con ellas quiero decir
 Te quiero, te adoro, mi vida
@@ -4314,6 +4378,7 @@ Las gardenias de mi amor se mueren
 Es porque han adivinado
 Que tu amor me ha traicionado
 Porque existe otro querer
+
 
 En un telar de madera
 Teje mi novia su ajuar
@@ -4344,9 +4409,11 @@ Qué regocijo me dio
 Con la lana del borrego
 Que su padre trasquiló
 
+
 Aicá maragá Aititu Aguahae
 Maica guere, demacihani
 Neigá haruvici alemalai
+
 
 Cuando una canaria quiere
 A quien la sabe querer
@@ -4362,6 +4429,7 @@ A la canaria que quiere
 ¡Ay, por tu salud
 Vivan los borrachos
 Del Puerto La Luz!
+
 
 Te llevo en el corazón
 Te amo con el alma
@@ -4385,6 +4453,7 @@ Y el Atlántico pone canción
 Cuando va a besar tu playa
 Mar sangre y roca pasión
 Mi querida Gran Canaria
+
 
 El zurrón del gofio
 Yo lo traigo aquí
@@ -4452,6 +4521,7 @@ Las más bonitas
 Me cago en diez
 No puedo más!
 
+
 Sitiera mía dime que has hecho de nuestro dulce hogar
 Cuna que un día fue de la alegría de aquel sitial
 Lágrimas vierte la sitiería que tiende a desolar
@@ -4473,6 +4543,7 @@ Ven de nuevo a mi retiro
 Y gozaremos de amor
 Al son del tiple y el güiro
 
+
 ¿No ves la luna dormida
 Sobre el lecho de las nubes?
 ¿No ves mi corazón yerto
@@ -4490,6 +4561,7 @@ Morenita mía
 Morenita mía
 Yo quisiera verte
 To’itos los días
+
 
 Ay, tírate al mar
 (Sí, Señor)
@@ -4548,6 +4620,7 @@ Maspalomas y tú
 La gloria de mi tierra
 En Maspalomas...
 
+
 Sombra del Nublo
 Riscales los de Tejeda
 Cadenas de mis montañas
@@ -4577,6 +4650,7 @@ Y a tu sombra quiero amar
 El alma eres de mi tierra
 Fuego y lava junto al mar
 
+
 Quítate de alante Arure
 Que quiero ver a Chipude
 Comerás leche con gofio
@@ -4587,6 +4661,7 @@ Soy de Chipude‚
 Traigo mi jerga
 Si tengo frío
 Me abrigo en ella
+
 
 Te lo voy a decir cantando
 Porque sé que de otro modo no me atrevo
@@ -4604,6 +4679,7 @@ Te lo voy a decir cantando
 Eso mismo que yo sé que no me atrevo
 Qué difícil me ha sido confesarlo
 El quererte decir que yo te quiero
+
 
 Esa vieja Farola del Mar
 Que en el puerto canario alumbró
@@ -4637,6 +4713,7 @@ Aires de parranda que al marino canta
 La vieja Farola del Mar
 Porque el puerto siempre es hogar
 Porque el puerto siempre es amor
+
 
 La Laguna canta aires de folía
 Suena la guitarra en el alma mía
@@ -4680,6 +4757,7 @@ Vivan los cantores
 De la patria mía
 Viva La Laguna
 Vivan las folías
+
 
 Oh Michèle, ¿dónde estás?
 Yo no sé si tú recordarás
@@ -4726,6 +4804,7 @@ Bailemos un vals
 Bailemos un vals
 Ah ha ha…
 
+
 Tal vez, porque desde niño
 He respirado tus
 Porque crecieron contigo
@@ -4767,14 +4846,13 @@ Jamás he podido olvidarme de tí
 Telde, estoy a tu lado
 Extiende tus manos y ven a por mí
 
+
 Era ya tarde en la fría noche, de la gran ciudad…
 Volvía a casa cuando de pronto, vi luz en un bar…
 No lo dudé, hacía frio en el entré…
-
 Me pareció como si de repente, fuera otro país…
 Aquella gente aquella música, nueva para mi…
 Un hombre viejo, se me acercó, y así me habló…
-
 Ven a brindar…
 Con vino griego de mi tierra natal…
 El vino rojo que me hará recordar…
@@ -4783,15 +4861,20 @@ Ven a brindar…
 Con vino griego y te voy a cantar…
 Viejas canciones que nos hacen soñar…
 Con el momento de volver, al hogar…
-
 Ellos me hablaron del día que, tuvieron que partir…
 De como padres hermanos y novias, quedaron allí…
 Y allí quedó, de todos ellos, el corazón…
-
 Quizás un día les llegue la fortuna a sonreír…
 Muy pronto nadie recordará, que estuvo aquí…
 Y volverá, al pueblo blanco, al hogar…
-
+Ven a brindar…
+Con vino griego de mi tierra natal…
+El vino rojo que me hará recordar…
+Un pueblo blanco que dejé, detrás del mar…
+Ven a brindar…
+Con vino griego y te voy a cantar…
+Viejas canciones que nos hacen soñar…
+Con el momento de volver, al hogar…
 Ven a brindar…
 Con vino griego de mi tierra natal…
 El vino rojo que me hará recordar…
@@ -4801,14 +4884,6 @@ Con vino griego y te voy a cantar…
 Viejas canciones que nos hacen soñar…
 Con el momento de volver, al hogar…
 
-Ven a brindar…
-Con vino griego de mi tierra natal…
-El vino rojo que me hará recordar…
-Un pueblo blanco que dejé, detrás del mar…
-Ven a brindar…
-Con vino griego y te voy a cantar…
-Viejas canciones que nos hacen soñar…
-Con el momento de volver, al hogar…
 
 Cuando amanece se despiertan
 Todas las aguas del Atlántico
@@ -4820,7 +4895,6 @@ Sacar las cercas del paisaje
 Y verlo libre como antes
 Que el campesino siembre su propio pan
 Y el pescador pueda trabajar sus redes
-
 Un mar azul que brille
 Con siete estrellas verdеs
 El amarillo en tus trigales
@@ -4835,11 +4909,11 @@ Y en los caminos que forjamos
 Ver crecer a nuestros hijos
 Que el campesino siembre su propio pan
 Y el pescador pueda trabajar sus redes
-
 Un mar azul que brille
 Con siete estrellas verdes
 El amarillo en tus trigales
 Y el blanco en tus rompientes
+
 
 A ver, a ver, a mover la colita
 Si no la mueve se le va a poner malita
@@ -4864,16 +4938,15 @@ Si no la mueve se le va a poner malita
 A ver, a ver, a mover la colita
 Si no la mueve se le va a poner malita
 
+
 Aparte de ti tu boca
 Tus labios color de rosa
 Aparte de ti tu boca
 Amo tu forma de bailar
-
 Aparte de ti tu boca
 Tus ojos me dicen cosas
 Las cosas que me provocas
 Le dan a mi cuerpo un compas
-
 Cuando tu das un paso para allá
 Me muevo como tu sombra
 Pero si pones tu mano aca
@@ -4883,17 +4956,14 @@ Me muevo como tu sombra
 Pero si pones tu mano aca
 Es cuando muero de placer
 Y todo en mi comienza a arder
-
 Aparte de ti tu boca
 Me quemo cuando me tocas
 Me gusta cuando caminas
 Y quiero ir adonde vas
-
 Aparte de ti tu boca
 El mundo es muy poca cosa
 Las cosas que me provocas
 Le dan a mi cuerpo un compas
-
 Cha-cha muchacha
 Que vuelva esta
 Cha-cha muchacha
@@ -4909,7 +4979,6 @@ Para gozar
 Cha-cha muchacha
 Que vuelva esta
 Cha-cha muchacha
-
 Cuando tu das un paso para allá
 Me muevo como tu sombra
 Pero si pones tu mano aca
@@ -4919,7 +4988,6 @@ Me muevo como tu sombra
 Pero si pones tu mano aca
 Es cuando muero de placer
 Y todo en mi comienza a arder
-
 Aparte de ti tu boca
 El mundo es muy poca cosa
 Las cosas que me provocas
@@ -4928,36 +4996,6 @@ Las cosas que me provocas
 Le dan a mi cuerpo un compas
 (cha-cha-cha)
 
-Mi tierra verde
-Tu tierra parda
-Mi tierra erguida
-Tu tierra echada
-Mi tierra grita
-Tu tierra calla
-Mi tierra vive
-La tuya aguarda
-Sueño tus llanos
-Tú mis montañas
-Yo en tu escombrera
-Con anchas alas
-Te quiero, hermano
-Te quiero, hermana;
-Deja tus suertes
-Deja tus gavias
-Fuerteventura
-¡fuerte desgracia
-Que no vivimos
-La misma casa
-Puerta con puerta
-Cama con cama
-Sueño con sueño
-Mago con maga!
-Mi agua es dulce
-La tuya amarga;
-Mía la rosa
-Tuya la aulaga
-Yo la fatiga
-Tú la esperanza....
 
 Mi tierra verde
 Tu tierra parda
@@ -4989,6 +5027,39 @@ Mía la rosa
 Tuya la aulaga
 Yo la fatiga
 Tú la esperanza....
+
+
+Mi tierra verde
+Tu tierra parda
+Mi tierra erguida
+Tu tierra echada
+Mi tierra grita
+Tu tierra calla
+Mi tierra vive
+La tuya aguarda
+Sueño tus llanos
+Tú mis montañas
+Yo en tu escombrera
+Con anchas alas
+Te quiero, hermano
+Te quiero, hermana;
+Deja tus suertes
+Deja tus gavias
+Fuerteventura
+¡fuerte desgracia
+Que no vivimos
+La misma casa
+Puerta con puerta
+Cama con cama
+Sueño con sueño
+Mago con maga!
+Mi agua es dulce
+La tuya amarga;
+Mía la rosa
+Tuya la aulaga
+Yo la fatiga
+Tú la esperanza....
+
 
 ¡Con la derecha, niños!
 ¿Cuándo vais a aprender buenas maneras?
@@ -5002,6 +5073,7 @@ El mango sobre el oro. Recordadlo
 Si os queréis sentar en buena mesa
 No lo olvidéis: se mata
 Con la derecha
+
 
 A una lumi de postín, mi brother Paul Simón
 Con tremendo swing después de un rico making love
@@ -5052,6 +5124,7 @@ Que folle Rita con mister Frank
 Y si te altera la primavera
 Ven mamacita con tu papá
 
+
 Ahora que me piden salsa
 Aprovecho la ocasión
 Para decir que en Canarias
@@ -5060,12 +5133,10 @@ Condimento indispensable
 Del gourmet y del glotón
 Y del que quiere gozarlo
 Con un rico sabrosón, ¿cómo dice?
-
 Mojo Picón
 Mojo Picón
 La rica salsa Canaria
 Se llama Mojo Picón
-
 Hablar de gastronomía
 Siempre ha sido mi pasión
 Y ahora mismo les diría
@@ -5074,12 +5145,10 @@ Pa mejorar el sabor
 Obligada condición
 Yo a todo lo rociaría
 Con un buen Mojo Picón
-
 Mojo Picón
 Mojo Picón
 La rica salsa Canaria
 Se llama Mojo Picón
-
 ¡Ahora sí!
 Si a la hora de bailar
 El alma pide sabor
@@ -5089,7 +5158,6 @@ No es que te hayas vuelto loco
 Ni es problema de tensión
 Es que la salsa, mi niña
 Es la del Mojo Picón
-
 Mojo Picón
 Mojo Picón
 La rica salsa Canaria
@@ -5103,17 +5171,14 @@ No te lo pienses dos veces
 Tienes la gran solución
 Dime que tú tienes salsa
 Y es la del Mojo Picón
-
 Mojo Picón
 Mojo Picón
 La rica salsa Canaria
 Se llama Mojo Picón
-
 Tú me das Mojo cilantro
 Hecha con todo tu amor
 Pero lo que yo más quiero
 Es el Mojo Picón, ¡rubia!
-
 Mojo Picón
 Mojo Picón
 La rica salsa Canaria
@@ -5122,11 +5187,11 @@ Es el Mojo que te pica
 Cuando oyes mi canción
 Es salsa y tiene la llave
 Pa que bailes con mis ojos
-
 Mojo Picón
 Mojo Picón
 La rica salsa Canaria
 Se llama Mojo Picón
+
 
 ¿Qué te pasa, tierra mía?
 Que has perdido tu sonrisa
@@ -5155,6 +5220,7 @@ Que no explotan tus volcanes
 Para destrozar los planes
 De toda la oligarquía
 La larará...
+
 
 Después de ser canario encerrado en la jaula
 Después de tantos años
@@ -5187,6 +5253,7 @@ Ser gaviota y seguir al barco que quiero
 Y acariciarle sus maderos como una ola más
 ......ser gaviota
 
+
 Siete islas tengo
 De esmeralda y oro
 Que como un tesoro
@@ -5215,6 +5282,7 @@ De mi madrе la arrorró
 El canto de las folías
 De mi madre la arrorró
 
+
 Te digo que no vale
 Meter el sueño azul bajo las sábanas
 Pasar de largo, no saber nada
@@ -5234,6 +5302,7 @@ Esconder la cabeza bajo el ala
 Decir “no sabía”, “estoy al margen”
 ”vivo en mi torre, sólo y no sé nada”
 Te digo y te repito que no vale
+
 
 Te perdono
 El montón de palabras
@@ -5283,6 +5352,7 @@ Eso sí que no
 Eso no te lo perdono
 Ay, lo que no te perdono es haberme besado
 
+
 Se te adivina al caminar con ademanes de cansado
 Cansado de no ver el mar, de respirar aire viciado
 Parece que la gran ciudad te está intentando destruir
@@ -5305,6 +5375,7 @@ O ir a la playa a comprar lo que se acaba de pescar
 De madrugada en Lanzarote
 Recuerdas tus noches palmeras, mezclando amor con habaneras
 Con vino y con “marquesotes”..........te digo
+
 
 Un beso más, te pido un beso más, ahora...
 Un beso que me siga en mi camino, lejos...
@@ -5333,6 +5404,7 @@ Mi vida loca, loca, loca, loca...
 ¡Anda!, decídete
 ¡Anda!, ¡anda!...
 Decídete
+
 
 Dónde yo nací, eh!
 Dónde me crié
@@ -5410,6 +5482,7 @@ Para tu ausencia
 Lo llenas todo
 Con tu presencia
 
+
 Yo poeta declaro que escribir poesía
 Es decir el estado verdadero del hombre
 Es cantar la verdad es llamar por su nombre
@@ -5434,6 +5507,7 @@ Yo poeta declaro que en el duro camino
 Del tiempo en el poeta se halla siempre un hermano
 Yo poeta declaro que el poeta es humano
 Aunque a veces nos haga presentir lo divino
+
 
 Era el pez con mejores caderas
 Del mar de la moda
@@ -5485,6 +5559,7 @@ Yo también sé jugarme la boca
 Qué te voy...
 Qué te voy a contar
 
+
 Duérmete niño chiquito
 Que tu madre no está aquí
 Está lavando pañales
@@ -5519,6 +5594,7 @@ Duérmete pequeño mío
 Que velando estoy tus sueños
 Aaaahm
 
+
 Si la ves desde arriba la ciudad son mil puntos de luz
 Y en cualquiera de tantos esta noche andas tú
 Si la ves desde el cielo la ciudad cabe toda en un pan
@@ -5539,6 +5615,7 @@ Las cosas que fueron, las que han de ser
 Me esperan abajo ahora justo al volver
 Ya siento la pista, estoy al llegar
 Me subo en un taxi y te voy a buscar
+
 
 Ahehiles, ahehiles
 Huxaq esaven tamares
@@ -5571,6 +5648,7 @@ Huxaq esaven tamares
 Ahehiles, ahehiles
 Huxaq esaven tamares
 
+
 Lo menos me tiene el mar
 Un cuatrillón de mirada
 Lo menos veintemil olas
@@ -5591,6 +5669,7 @@ Al norte, vamos al norte
 Al sur, puеs vamos al sur
 Como sea sobre el agua
 Yo voy dondе vayas tú
+
 
 No se quede nadie sin luna
 Que la gente viva despierta
@@ -5618,6 +5697,7 @@ No he de renunciar a ninguna
 Ni en una ni en dos cedemos
 A por todas vamos
 Todas las queremos
+
 
 Mi pequeño paisaje
 Mi canción encendida
@@ -5680,6 +5760,7 @@ Me dice y no me habla
 Navegas o naufragas
 Aquí no pasa nada
 
+
 Contra viento y marea
 Con el alma en un hilo
 Entre luces y sombras
@@ -5709,6 +5790,7 @@ Con el cuerpo dormido
 Entre sábanas blancas
 Amo la libertad
 
+
 Berlín año 90
 La historia en su girar
 Encuentra a los perdidos
@@ -5725,7 +5807,6 @@ Muro lleno de luces
 Que no podré tocar
 Muro que no me alcanza
 La masa para el pan
-
 Que se caigan también
 Esos muros también
 Que allí estaremos todos
@@ -5755,6 +5836,7 @@ Con la misma energía
 Los pedazos de muro
 Que nos tuercen la vida
 
+
 La gueldera en Acentejo
 El engodo en Candelaria
 Primero llegó la cruz
@@ -5772,7 +5854,6 @@ De una isla y de una raza
 Y una infinita querencia:
 Nacer, vivir y morir
 Sin cadenas castellanas
-
 Se la llevaron los invasores
 Cuando vеnía de la montaña
 Con su carguita de til y brezo
@@ -5791,7 +5872,6 @@ Se la llevaron los invasores
 Cuando venía de la montaña
 Y el caminito se fue cerrando
 En mala hierba y de telarañas
-
 Un gran silencio creció en la cumbre
 Un aire helado bajó a la playa
 Así de mudo se quedó el monte
@@ -5802,6 +5882,7 @@ Sierva de grandes señores
 En algún lugar de España
 Cathaysa la niña guanche
 No verá más Taganana
+
 
 Una esfera de versos fugaces
 Galopando en la espalda de Ucanca
@@ -5825,6 +5906,7 @@ Y dibujo la sed natural
 Y acaricio su surco de estrellas
 Mientras dejas atrás las angustias
 Y me abrazas con voz de paz
+
 
 Echado en la cama
 Escuchando a Sabina
@@ -5875,6 +5957,7 @@ Maldita ruina
 Soy sólo un enfermo
 Sin su medicina
 
+
 El indio ya estaba
 Nombrando las cosas
 Conoce la selva y los caminos
@@ -5883,7 +5966,6 @@ El indio ya estaba
 Diciendo palabras
 Él fue descubriendo cada trozo
 De este espacio bajo el sol
-
 Llegaron los hombres
 De piel como luna
 Fueron descubriendo todo aquello
@@ -5902,8 +5984,8 @@ Y fue generoso
 Y así todo aquello que brillaba
 Y era el indio, se perdió
 Porque
-
 Llegaron...
+
 
 ¿Qué importa que lleves? ¿Qué importa que traigas?
 Si agua si leche o si pan si Agarfa no quiere mirar
@@ -5916,6 +5998,7 @@ Si Agarfa no quiere mirar?
 Mimeráhanab zinú zinuhá
 Ahemen atén ahrán d-húad
 Zud Agáraf ú fenn éreg nuzzág
+
 
 Sé bienvenido, hermano
 Mataron a nuestra madre esta gente extranjera
@@ -5936,6 +6019,7 @@ Arubitsi alemalai
 Aicá maragá
 Aititúhu aguahai
 Maicán güere
+
 
 Será por tu niñez que tengo tan adentro
 Donde me habitan árboles tiernos
@@ -5959,6 +6043,7 @@ Con ganas de contarte
 Que hay flores nuevas dentro
 De lo que siento por ti
 
+
 Será por tu niñez que tengo tan adentro
 Donde me habitan árboles tiernos
 Flores, risas…
@@ -5980,6 +6065,7 @@ Y te busco por las calles
 Con ganas de contarte
 Que hay flores nuevas dentro
 De lo que siento por ti
+
 
 “La linda locura de un cuerdo”
 En mí vino a germinar
@@ -6018,6 +6104,7 @@ Desde entonces hasta acá
 El tajaraste se me encabrita
 Y suena una espatadantza
 
+
 Basta de ser colillas apagadas
 Del cenicero de los mares
 Ombligos de la sed
@@ -6041,6 +6128,7 @@ Ni seguir siendo súbditas
 De una feria de olvidos
 No deseamos otras pertenencias
 Que no sean las alas de los vuelos
+
 
 Gustábamos de pintar
 En los pupitres estrellas
@@ -6072,6 +6160,7 @@ Gustábamos de vivir
 Pasábamos de entender
 Recuerdo a mis amigos
 Y el andar de sus pies
+
 
 Ya tengo preparada la maleta
 Una maleta grande, de madera
@@ -6131,6 +6220,7 @@ Los que ponen la muerte en el futuro
 ¡Que cojan la maleta!
 ¡Que cojan para siempre la maleta!
 
+
 ¿Quién te llevó a vivir sin mirar el sol?
 María de Femés
 ¿Quién no supo escuchar tu voz?
@@ -6163,6 +6253,7 @@ Diablo tienes que ser
 Bruja que nos embrujas
 Desgracia de tanto mal
 
+
 Sin voz me pide amor eterno
 Y yo le juro que no prometo
 Entonces marcha con su vuelo
@@ -6187,6 +6278,7 @@ Ahora camino del olvido
 Sigo esperando por sus latidos
 Si un día pasas por su lado
 Dale tu amor y no le hagas daño
+
 
 Afeitada como la Sinead O'Connor
 La vi dejar el pub envuelta en humo de moto
@@ -6221,6 +6313,7 @@ Nadie sabe... lo que andamos buscando
 Si un salto hacia la luz
 O si nos vamos marchando
 
+
 Un perro de la calle
 Fiel amigo del viento y las esquinas
 Me acompañaba a veces
@@ -6242,6 +6335,7 @@ De las cureñas del azar del agua
 Ritmos de la igualdad, fraternizábamos
 Un perro de la calle y un hombre sin fronteras
 Dos cuentagotas de la eternidad
+
 
 Palabras para no contar
 Verdades para no decir
@@ -6289,6 +6383,7 @@ Contra ritmo
 Contra tiempos
 Verdades rompiendo...
 
+
 Llega del mundo
 De alguna nube
 Sale a la calle
@@ -6325,6 +6420,7 @@ La fusilan y nace
 Como un pajarito
 Como una hierba
 Como un niño nace
+
 
 Bailar es divertido y te gusta cantidad
 Y si empiezas a moverte no te puedes parar
@@ -6371,6 +6467,7 @@ Es un rap a duras penas, es un rap...
 Y este rap que yo canto no es rap rapadura
 Es un rap a duras penas, es un rap...
 
+
 Una isla que no encuentro
 Un lugar que se me escapa
 Que estoy cerca, que no llego
@@ -6399,6 +6496,7 @@ Que eso es mentira
 Que esa isla no existe
 Que la imaginas
 Que la imaginas
+
 
 Hoy no pasé por casa
 Hoy se encendió la luz
@@ -6434,6 +6532,7 @@ No hay nada que podamos
 No hay nada que evitar
 El fin está en la suma
 De cualquier casual
+
 
 Tanaga Guayoch
 Achimenceu Nahaya
@@ -6490,6 +6589,7 @@ Emiliano Zapata....
 Toro Sentado y Nube Gris
 Y el Ché Guevara...
 
+
 Inquilinos del planeta
 Descúbranse ante el cantar
 Devolvimos a la tierra
@@ -6524,6 +6624,7 @@ Goza tu lienzo final
 Matérico hasta la muerte
 Ya sangre ceniza y cal
 U-Titerroygatrá
+
 
 Yo también nací en el 63
 Y desde allí llegué hasta hoy aquí
@@ -6568,6 +6669,7 @@ Atento al que quiera andar
 ¿Qué te puedo decir?
 ¿Qué te puedo contar?
 
+
 Son demasiados lindos ojos
 Para tenerlos cerrados
 Tan frágiles tus dedos
@@ -6609,6 +6711,7 @@ Mercromina p'al amor
 Uh uh uh
 Tarareo y sanas tú
 
+
 Qué bonito es Bajamar
 Qué bonita es su atalaya
 Para contemplar la playa
@@ -6625,6 +6728,7 @@ Ay Bajamar
 Que tras Anaga te escondes
 Déjame besar tu nombre
 Con mi sentida canción...
+
 
 Marinero abre
 Tus brazos
@@ -6647,6 +6751,7 @@ Que no muera marinero
 Quе no se muera el recuerdo
 Que no muera marinero
 Marinero
+
 
 Siete islas tengo
 De esmeralda y oro
@@ -6676,6 +6781,7 @@ De mi madrе la arrorró
 El canto de las folías
 De mi madre la arrorró
 
+
 Caminito del indio
 Sendero coya sembra’o de piedras
 Caminito del indio
@@ -6700,6 +6806,7 @@ Sе levanta en el cerro
 La voz doliente de una baguala
 Y el camino lamenta
 Ser el culpable de la distancia
+
 
 Barrio de Vegueta
 Barrio donde nací
@@ -6733,6 +6840,7 @@ Repican, ya se van
 Al mar, al mar, al mar
 Barrio de Vegueta
 
+
 De belingo nos vamos pa'l monte
 En pirata, en pirata
 De belingo nos vamos pa'l monte
@@ -6751,6 +6859,7 @@ Fue de lo más natural dejarse aqui el corazón
 Dejarse aqui el corazón fue de lo más natural
 Si con un guanche fue a dar y comió mojo picón
 Fue de lo más natural dejarse aqui el corazón
+
 
 Eres … eres …
 Eres como la Alpispa
@@ -6790,6 +6899,7 @@ Junto a la acequia
 Salpicona y bonita
 Pero coqueta
 
+
 Adiós, prenda de mi alma
 Cómo te apartas de mí
 Cómo jugaba la luna en el mar
@@ -6817,6 +6927,7 @@ Cómo te apartas de mí
 Cómo jugaba la luna en el mar
 La noche en Arguineguín
 
+
 Mariquilla al pino la de San José
 Se quiere casar sin saber cocer
 Pobrecillo novio, ay pobre Rafael
@@ -6837,6 +6948,7 @@ Te metiste en la cocina el día de San José
 Se comió el sancollo, se murió Rafael
 Pobrecillo novio, ay pobre Rafael
 Pobrecillo novio, ay pobre Rafael
+
 
 Andrés, Andrés, repásate el motor
 Que se te sale el agua por el carburador
@@ -6867,6 +6979,7 @@ Que se te sale el agua por el carburador
 Andrés, Andrés, repásate el motor
 Que se te sale el agua por el carburador
 
+
 Arrorró, arrorró
 Rubio y alto, mi niño
 ¡Ay, cómo duerme!
@@ -6887,6 +7000,7 @@ Mi niño duerme
 Rubio y alto, mi niño
 ¡Ay, cómo duerme!
 Arrorró
+
 
 Sombra del Nublo
 Riscales los de Tejeda
@@ -6916,6 +7030,7 @@ Quiero vivir a tu sombra
 Y a tu sombra quiero amar
 El alma eres de mi tierra
 Fuego y lava junto al mar
+
 
 Tartanero, !Tartanero!, cuida bien de tu tartana
 Que el caballo, no este flaco que no le falte cebada
@@ -6948,6 +7063,7 @@ Arre caballito, que te falta poco
 (¡Y un, dos, tres!)
 Triqui, triqui, triqui, triqui, triqui, triquitrá
 
+
 De La Isleta al Refugio
 Al Muelle Grande, al Muelle Grande
 Son los hombres valientes
@@ -6977,11 +7093,11 @@ Y aunque asople el vendaval
 Quiero yo a un cambullonero…
 ¡que es valiente! ¡que es moreno!
 ¡que es un hombre de verdad!
-
 De La Isleta al Refugio
 Al Muelle Grande, al Muelle Grande
 Son los hombres valientes
 Que Dios los guarde, que Dios los guarde
+
 
 Mi memoria se hunde en las olas del sueño
 El imán del amor rompe mi soledad
