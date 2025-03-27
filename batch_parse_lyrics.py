@@ -7,7 +7,7 @@ def extraer_lyrics_a_txt(json_path: str, output_path: str):
 
     # Initialize an empty list to store all the lyrics
     letras = []
-
+    
     # Iterate through each artist and their songs
     for artist, songs in datos.items():
         for cancion in songs:
@@ -17,7 +17,7 @@ def extraer_lyrics_a_txt(json_path: str, output_path: str):
                 letras.append(letra)
 
     # Join all the lyrics with two newlines between them
-    texto_completo = "\n\n\n".join(letras)
+    texto_completo = "\n\n".join(letras)
 
     # Write the combined lyrics to the output file
     with open(output_path, "w", encoding="utf-8") as f_out:
