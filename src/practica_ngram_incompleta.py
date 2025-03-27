@@ -4,29 +4,29 @@ import os
 from collections import defaultdict
 
 def read_and_tokenize(filename):
-    """
-    Lee un archivo, y crea una lista donde cada elemento es una lista que contiene todas las palabras de una canción.
-    Sustituye los finales de línea de cada canción por el token "EOL".
-    Por ejemplo, si el corpus es:
 
-    Hola mundo
-    Mi casa
-    
-    El perro
-    El gato
-    
-    La salida debe ser:
-    [['Hola', 'mundo', 'EOL', 'Mi', 'casa'], ['El', 'perro', 'EOL', 'El', 'gato']]
-    
-    Args:
-        filename (str): Path to the input file.
-    
-    Returns:
-        list: A list of sentences, where each sentence is a list of words.
-    """
-    
-
-    #return sentences
+    sentences = []
+    with open(filename, 'r', encoding='utf-8-sig') as f:
+        # Read the entire file content
+        content = f.read()
+        # Split the content into sentences using two consecutive newlines (\n\n)
+        raw_sentences = content.split('\n\n')
+        # Process each sentence
+        for raw_sentence in raw_sentences:
+            # Replace remaining newlines within the sentence with "EOL"
+            processed_sentence = raw_sentence.replace('\n', ' EOL ').strip()
+            # Split the sentence into words
+            tokens = processed_sentence.split()
+            # Remove the first "EOL" if it exists
+            if tokens and tokens[0] == "EOL":
+                tokens.pop(0)
+            # Remove the last "EOL" if it exists
+            if tokens and tokens[-1] == "EOL":
+                tokens.pop()
+            # Append the processed sentence if it's not empty
+            if tokens:  # Ignore empty sentences
+                sentences.append(tokens)
+    return sentences
 
 
 def write_sentences_to_file(sentences, output_file):
@@ -233,9 +233,6 @@ def generate_sentence_top_k(cpd, vocab, n, max_length=20, special_tokens_to_remo
     return " ".join(processed_words)
 
 
-   
-
-
 def split_corpus(corpus, train_ratio=0.8):
     """
     Divide el corpus en conjuntos de entrenamiento y prueba.
@@ -268,27 +265,25 @@ def compute_perplexity(test_sentences, cpd, n, vocab):
     #return perplexity
 
 
-
-   
-
 # Ejecución Principal
 if __name__ == "__main__":
     # Establecer el directorio de trabajo
-    os.chdir("G:\\Mi unidad\\24-25\\docencia\\iaa\\practica\\ngram")
-    
+    # os.chdir("G:\\Mi unidad\\24-25\\docencia\\iaa\\practica\\ngram")
+    os.chdir("~/asignaturas/IAA/p-grupo/IAA-Corpus-Lyrics")
+
     # Paso 1: Leer y tokenizar el corpus
     corpus = read_and_tokenize("all_lyrics1.txt")
 
-    do_KenLM=False
+    do_KenLM=True
     if(do_KenLM):
         write_sentences_to_file(corpus, "kenlm1.txt")
-    
+
     # Paso 2: Preparar el corpus y el vocabulario
     n = 2  # Orden del modelo de n-gramas
     unk_threshold = 0
     print("Preparando el corpus...")
     prepared_corpus, vocab = prepare_corpus(corpus, n, unk_threshold)
-    
+
     # Paso 3: Dividir el corpus en entrenamiento y prueba
     do_split_corpus=False
     if(do_split_corpus):
@@ -296,15 +291,15 @@ if __name__ == "__main__":
         train_corpus, test_corpus = split_corpus(prepared_corpus, train_ratio=0.8)
     else:
         train_corpus=test_corpus=prepared_corpus
-    
+
     # Paso 4: Generar n-gramas del corpus de entrenamiento
     print("Generando n-gramas del corpus de entrenamiento...")
     train_ngrams = generate_ngrams(train_corpus, n)
-    
+
     # Paso 5: Calcular probabilidades de n-gramas
     print("Calculando probabilidades de n-gramas...")
     cpd = compute_ngram_probabilities(train_ngrams, vocab, n)
-    
+
     # Paso 6: Evaluar oraciones de prueba
     print("\nEvaluando oraciones de prueba...")
     for test_sentence in test_corpus[:2]:  # Mostrar resultados para las primeras 5 oraciones
@@ -314,14 +309,13 @@ if __name__ == "__main__":
         print("\nProbabilidad de la Oración:")
         print(" ".join(test_sentence), f"= {math.exp(prob):.8f}")
         print()
-    
-     # Paso 7: Generando oraciones de prueba
-    
+
+    # Paso 7: Generando oraciones de prueba
+
     for idx in range(3):
         print(f"Ejemplo {idx}")
         print(generate_sentence_top_k(cpd, vocab, n, max_length=300, special_tokens_to_remove={"<s>", "</s>"}, k=5))
         print()
-
 
     # Paso 8: Calcular la perplejidad
     print("\nCalculando la perplejidad del modelo...")
