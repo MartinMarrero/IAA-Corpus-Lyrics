@@ -4,7 +4,6 @@ import sys
 import numpy as np
 import os
 
-sys.path.append(r"G:\Mi unidad\24-25\docencia\iaa\practica\auxpy")
 import auxfunctions as auxF 
 
 # Define a custom callback to log the loss
@@ -71,7 +70,7 @@ if __name__ == "__main__":
 
     # Paso 1: Cargar y preprocesar el corpus
     print("Cargando y preprocesando el corpus...")
-    file=r"G:\Mi unidad\24-25\docencia\iaa\practica\ngram\all_lyrics2.txt"
+    file=r"simpletext.txt"
     sentences=auxF.read_and_tokenize_wordvec(file,preprocess=auxF.preprocess)
     print(f"Cargadas {len(sentences)} oraciones del corpus.")
 
