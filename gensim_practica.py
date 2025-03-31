@@ -64,7 +64,6 @@ def load_model(file_path):
 
 if __name__ == "__main__":
     # Configuración inicial
-    os.chdir(r"G:\Mi unidad\24-25\docencia\iaa\practica")
     model_file = "word2vec.model"
     output_file = "most_similar_words_gensim.txt"
 
@@ -76,13 +75,11 @@ if __name__ == "__main__":
 
     # Paso 2: Entrenar el modelo Word2Vec
     print("Entrenando el modelo Word2Vec...")
-    model = train_word2vec_model(sentences, vector_size=128, window=7, min_count=50, epochs=100, workers=4)
+    model = train_word2vec_model(sentences, vector_size=128, window=7, min_count=1, epochs=100, workers=4)
 
     # Paso 3: Guardar el modelo
     print(f"Guardando el modelo en {model_file}...")
     save_model(model, model_file)
-    
-
 
 
     # Paso 4: Escribir las palabras más similares en un archivo
@@ -96,11 +93,11 @@ if __name__ == "__main__":
 
     # Paso 6: Visualizar con PCA
     print("Visualizando embeddings con PCA...")
-    auxF.visualize_embeddings_gensim(model, min_frequency=50, method="pca")
+    auxF.visualize_embeddings_gensim(model, min_frequency=1, method="pca")
 
     # Paso 7: Visualizar con t-SNE
     print("Visualizando embeddings con t-SNE...")
-    auxF.visualize_embeddings_gensim(model, min_frequency=50, method="tsne")
+    auxF.visualize_embeddings_gensim(model, min_frequency=1, method="tsne")
 
 
 
