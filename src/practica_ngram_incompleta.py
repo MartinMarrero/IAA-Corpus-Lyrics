@@ -265,7 +265,7 @@ def compute_perplexity(test_sentences, cpd, n, vocab):
     total_words = 0
 
     for sentence in test_sentences:
-        print(f"Evaluando oración: {' '.join(sentence)} con cpd: {cpd}\n")
+        # print(f"Evaluando oración: {' '.join(sentence)} con cpd: {cpd}\n")
         log_prob = sentence_logprobability(sentence, cpd, n, vocab)
         total_log_prob += log_prob
         total_words += len(sentence)
@@ -279,10 +279,9 @@ def compute_perplexity(test_sentences, cpd, n, vocab):
 if __name__ == "__main__":
     # Establecer el directorio de trabajo
     # os.chdir("G:\\Mi unidad\\24-25\\docencia\\iaa\\practica\\ngram")
-    os.chdir("/home/marcos/asignaturas/IAA/p-grupo/IAA-Corpus-Lyrics")
 
     # Paso 1: Leer y tokenizar el corpus
-    corpus = read_and_tokenize("./lyrics/letras_viejos.txt")
+    corpus = read_and_tokenize("./lyrics/letras_nuevos.txt")
 
     do_KenLM=True
     if(do_KenLM):
@@ -290,7 +289,7 @@ if __name__ == "__main__":
 
     # Paso 2: Preparar el corpus y el vocabulario
     n = 2  # Orden del modelo de n-gramas
-    unk_threshold = 0
+    unk_threshold = 1 # tuve que ponerlo a 1 por memoria
     print("Preparando el corpus...")
     prepared_corpus, vocab = prepare_corpus(corpus, n, unk_threshold)
 
@@ -311,14 +310,14 @@ if __name__ == "__main__":
     cpd = compute_ngram_probabilities(train_ngrams, vocab, n)
 
     # Paso 6: Evaluar oraciones de prueba
-    print("\nEvaluando oraciones de prueba...")
-    for test_sentence in test_corpus[:2]:  # Mostrar resultados para las primeras 5 oraciones
-        prob = sentence_logprobability(test_sentence, cpd, n, vocab)
-        print("\nLog Probabilidad de la Oración:")
-        print(" ".join(test_sentence), f"= {prob:.8f}")
-        print("\nProbabilidad de la Oración:")
-        print(" ".join(test_sentence), f"= {math.exp(prob):.8f}")
-        print()
+    # print("\nEvaluando oraciones de prueba...")
+    # for test_sentence in test_corpus[:2]:  # Mostrar resultados para las primeras 5 oraciones
+    #     prob = sentence_logprobability(test_sentence, cpd, n, vocab)
+    #     print("\nLog Probabilidad de la Oración:")
+    #     print(" ".join(test_sentence), f"= {prob:.8f}")
+    #     print("\nProbabilidad de la Oración:")
+    #     print(" ".join(test_sentence), f"= {math.exp(prob):.8f}")
+    #     print()
 
     # Paso 7: Generando oraciones de prueba
 
