@@ -289,7 +289,7 @@ if __name__ == "__main__":
 
     # Paso 2: Preparar el corpus y el vocabulario
     n = 2  # Orden del modelo de n-gramas
-    unk_threshold = 1 # tuve que ponerlo a 1 por memoria
+    unk_threshold = 0 # tuve que ponerlo a 1 por memoria
     print("Preparando el corpus...")
     prepared_corpus, vocab = prepare_corpus(corpus, n, unk_threshold)
 
