@@ -251,13 +251,13 @@ def split_corpus(corpus, train_ratio=0.8):
 def compute_perplexity(test_sentences, cpd, n, vocab):
     """
     Calcula la perplejidad del modelo sobre un conjunto de oraciones de prueba.
-
+    
     Args:
         test_sentences (list of list of str): Lista de oraciones de prueba.
         cpd (dict): Diccionario de distribuciones de probabilidad condicional.
         n (int): El tamaño de los n-gramas.
         vocab (set): Conjunto de palabras en el vocabulario.
-
+    
     Returns:
         float: La perplejidad del modelo.
     """
@@ -265,7 +265,7 @@ def compute_perplexity(test_sentences, cpd, n, vocab):
     total_words = 0
 
     for sentence in test_sentences:
-        # print(f"Evaluando oración: {' '.join(sentence)} con cpd: {cpd}\n")
+        print(f"Evaluando oración: {' '.join(sentence)} con cpd: {cpd}\n")
         log_prob = sentence_logprobability(sentence, cpd, n, vocab)
         total_log_prob += log_prob
         total_words += len(sentence)
@@ -275,24 +275,25 @@ def compute_perplexity(test_sentences, cpd, n, vocab):
     return perplexity
 
 
+
 # Ejecución Principal
 if __name__ == "__main__":
     # Establecer el directorio de trabajo
-    # os.chdir("G:\\Mi unidad\\24-25\\docencia\\iaa\\practica\\ngram")
-
+    
     # Paso 1: Leer y tokenizar el corpus
-    corpus = read_and_tokenize("./lyrics/letras_nuevos.txt")
+    corpus = read_and_tokenize("lyrics/nuevos.txt")
 
-    do_KenLM=True
+
+    do_KenLM=False
     if(do_KenLM):
         write_sentences_to_file(corpus, "kenlm1.txt")
-
+    
     # Paso 2: Preparar el corpus y el vocabulario
     n = 2  # Orden del modelo de n-gramas
-    unk_threshold = 0 # tuve que ponerlo a 1 por memoria
+    unk_threshold = 0
     print("Preparando el corpus...")
     prepared_corpus, vocab = prepare_corpus(corpus, n, unk_threshold)
-
+    
     # Paso 3: Dividir el corpus en entrenamiento y prueba
     do_split_corpus=False
     if(do_split_corpus):
@@ -301,30 +302,34 @@ if __name__ == "__main__":
     else:
         train_corpus=test_corpus=prepared_corpus
 
+    print(f"Corpus de entrenamiento: {len(train_corpus)} oraciones")
+    print(f"Corpus de prueba: {len(test_corpus)} oraciones")
+    
     # Paso 4: Generar n-gramas del corpus de entrenamiento
     print("Generando n-gramas del corpus de entrenamiento...")
     train_ngrams = generate_ngrams(train_corpus, n)
-
+    
     # Paso 5: Calcular probabilidades de n-gramas
     print("Calculando probabilidades de n-gramas...")
     cpd = compute_ngram_probabilities(train_ngrams, vocab, n)
-
+    
     # Paso 6: Evaluar oraciones de prueba
-    # print("\nEvaluando oraciones de prueba...")
-    # for test_sentence in test_corpus[:2]:  # Mostrar resultados para las primeras 5 oraciones
-    #     prob = sentence_logprobability(test_sentence, cpd, n, vocab)
-    #     print("\nLog Probabilidad de la Oración:")
-    #     print(" ".join(test_sentence), f"= {prob:.8f}")
-    #     print("\nProbabilidad de la Oración:")
-    #     print(" ".join(test_sentence), f"= {math.exp(prob):.8f}")
-    #     print()
-
-    # Paso 7: Generando oraciones de prueba
-
+    print("\nEvaluando oraciones de prueba...")
+    for test_sentence in test_corpus[:2]:  # Mostrar resultados para las primeras 5 oraciones
+        prob = sentence_logprobability(test_sentence, cpd, n, vocab)
+        print("\nLog Probabilidad de la Oración:")
+        print(" ".join(test_sentence), f"= {prob:.8f}")
+        print("\nProbabilidad de la Oración:")
+        print(" ".join(test_sentence), f"= {math.exp(prob):.8f}")
+        print()
+    
+     # Paso 7: Generando oraciones de prueba
+    
     for idx in range(3):
         print(f"Ejemplo {idx}")
         print(generate_sentence_top_k(cpd, vocab, n, max_length=300, special_tokens_to_remove={"<s>", "</s>"}, k=5))
         print()
+
 
     # Paso 8: Calcular la perplejidad
     print("\nCalculando la perplejidad del modelo...")
